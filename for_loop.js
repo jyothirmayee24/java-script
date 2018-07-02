@@ -23,6 +23,8 @@ for (i = 0; i < food.length; i++) {
     console.log(text);
 }
 //exercise-6
+var text;
 var i;
-for (i = 1; i<10; i=i+2) 
-console.log(i)
+for (i = 1; i < 10; i = i + 2) {
+    console.log(i);
+}
